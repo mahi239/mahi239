@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello everyone 👋
+I am a qualified and professional web developer with five years of experience in database administration and website design. Strong creative and analytical skills. Team player with an eye for detail.
+## Education
+- MCA
+- B.Ed
+- B.Sc (maths and Physics)
+- CTET
 
-<!--
-**mahi239/mahi239** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+-   Web Design
+-   Design Thinking
+-   Wireframe Creation
+-   Front End Coding
+-   Problem-Solving
+-   Computer Literacy
+-   Project Management Tools
+-   Strong Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## languages
+- c++
+- Html
+- CSS
+- java
+
+# Contact me
+- instagram
+- facebook
+- telegram
+
